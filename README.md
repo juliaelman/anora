@@ -1,6 +1,6 @@
-Anora - Django templatetag
+Anora
 ==========================
-Anora is a simple_tag that determines whether or not a word should have an "a" or "an" in front of it. Adds either one of these depending on the phoentic value of the given text. It will also automatically add one space before the text and 
+Anora is a Django template filter that determines whether or not a word should have an "a" or "an" in front of it. Adds either one of these depending on the phoenetic value of the given text. It will also automatically add one space before the text.
 
 Install
 -------
