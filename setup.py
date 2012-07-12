@@ -20,7 +20,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     url='https://github.com/juliaelman/anora',
-    license='',
+    license='BSD',
     description=u' '.join(__import__('anora').__doc__.splitlines()).strip(),
     classifiers=[
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
